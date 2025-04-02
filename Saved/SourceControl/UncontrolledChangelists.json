@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/EX2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_MoveLefRight.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_MovRect.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_SplineMove.uasset",
+				"C:/BootCamp1/EX2/Content/BP/EN_Move.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/5E/UHRHCKAF71JZ9XEHUOVQ8W.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_timer.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_Coin.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_Switch.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_widget.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_Hud.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6U/G3SU8PL0OG4SJYSFKWKNIK.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/LI/319BNP6CEXG6GQ02U1KG51.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/T0/W4O1J056571N5EBNA4ZDGI.uasset",
+				"C:/BootCamp1/EX2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MQ/KBVY5BLVH00KDS1SJAJGSS.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/MR/D8WASUA5G1R6TK82N7B1ID.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/4V/DEVUTEPKPET9L81RP7P8KD.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BP_Coincounter.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/KS/TTPR6LESJ38MSCOXUCVEPB.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1E/ME3KH5F2A0DDVOVI7J385T.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/B7/JC7HCFPX1EVP2I4BRC8VAN.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/FV/CW7S3YHLT0TFXX6DBEHGFC.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/G4/UJ0HP7XPRIMG35M9T723VR.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/SE/UZX85VQ6RSLQ0OBOJ42BR8.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BPI.uasset",
+				"C:/BootCamp1/EX2/Content/BP/BPI_action.uasset",
+				"C:/BootCamp1/EX2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/O7/XHEK789EQBHOKZ7HO9OE79.uasset"
+			]
+		}
+	]
+}
